@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vitripathi\\.nuget\\packages\\": {},
+    "C:\\Users\\mgandhe\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vitripathi\\source\\repos\\Tavisca.Tripster.HomeApi\\Tavisca.Tripster.HotelApi.DataAcessLayer\\Tavisca.Tripster.Hotel.Contract.csproj",
+      "projectUniqueName": "C:\\Users\\mgandhe\\source\\repos\\Tripster.HotelApi\\Tavisca.Tripster.HotelApi\\Tavisca.Tripster.HotelApi.DataAcessLayer\\Tavisca.Tripster.Hotel.Contract.csproj",
       "projectName": "Tavisca.Tripster.Hotel.Contract",
-      "projectPath": "C:\\Users\\vitripathi\\source\\repos\\Tavisca.Tripster.HomeApi\\Tavisca.Tripster.HotelApi.DataAcessLayer\\Tavisca.Tripster.Hotel.Contract.csproj",
-      "packagesPath": "C:\\Users\\vitripathi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vitripathi\\source\\repos\\Tavisca.Tripster.HomeApi\\Tavisca.Tripster.HotelApi.DataAcessLayer\\obj\\",
+      "projectPath": "C:\\Users\\mgandhe\\source\\repos\\Tripster.HotelApi\\Tavisca.Tripster.HotelApi\\Tavisca.Tripster.HotelApi.DataAcessLayer\\Tavisca.Tripster.Hotel.Contract.csproj",
+      "packagesPath": "C:\\Users\\mgandhe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mgandhe\\source\\repos\\Tripster.HotelApi\\Tavisca.Tripster.HotelApi\\Tavisca.Tripster.HotelApi.DataAcessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\vitripathi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mgandhe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
