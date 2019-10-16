@@ -1,0 +1,3 @@
+C:\Users\vitripathi\source\repos\Tavisca.Tripster.HomeApi\Tavisca.tripster.HotelApi.contracts\obj\Debug\netcoreapp2.1\Tavisca.tripster.HotelApi.contracts.csproj.CoreCompileInputs.cache
+C:\Users\vitripathi\source\repos\Tavisca.Tripster.HomeApi\Tavisca.tripster.HotelApi.contracts\obj\Debug\netcoreapp2.1\Tavisca.tripster.HotelApi.contracts.AssemblyInfoInputs.cache
+C:\Users\vitripathi\source\repos\Tavisca.Tripster.HomeApi\Tavisca.tripster.HotelApi.contracts\obj\Debug\netcoreapp2.1\Tavisca.tripster.HotelApi.contracts.AssemblyInfo.cs

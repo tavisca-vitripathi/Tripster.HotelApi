@@ -1,0 +1,3 @@
+C:\Users\vitripathi\source\repos\Tavisca.Tripster.HomeApi\Tavisca.Tripster.HomeApi\obj\Debug\netcoreapp2.1\Tavisca.Tripster.HomeApi.csproj.CoreCompileInputs.cache
+C:\Users\vitripathi\source\repos\Tavisca.Tripster.HomeApi\Tavisca.Tripster.HomeApi\obj\Debug\netcoreapp2.1\Tavisca.Tripster.HomeApi.AssemblyInfoInputs.cache
+C:\Users\vitripathi\source\repos\Tavisca.Tripster.HomeApi\Tavisca.Tripster.HomeApi\obj\Debug\netcoreapp2.1\Tavisca.Tripster.HomeApi.AssemblyInfo.cs
