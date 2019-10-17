@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vitripathi\\source\\repos\\Tavisca.Tripster.HomeApi\\Tavisca.Tripster.HotelDAL\\Tavisca.Tripster.Hotel.Data.csproj",
+      "projectUniqueName": "C:\\Users\\vitripathi\\Desktop\\Hotelapi\\Tavisca.Tripster.HotelApi\\Tavisca.Tripster.HotelDAL\\Tavisca.Tripster.Hotel.Data.csproj",
       "projectName": "Tavisca.Tripster.Hotel.Data",
-      "projectPath": "C:\\Users\\vitripathi\\source\\repos\\Tavisca.Tripster.HomeApi\\Tavisca.Tripster.HotelDAL\\Tavisca.Tripster.Hotel.Data.csproj",
+      "projectPath": "C:\\Users\\vitripathi\\Desktop\\Hotelapi\\Tavisca.Tripster.HotelApi\\Tavisca.Tripster.HotelDAL\\Tavisca.Tripster.Hotel.Data.csproj",
       "packagesPath": "C:\\Users\\vitripathi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vitripathi\\source\\repos\\Tavisca.Tripster.HomeApi\\Tavisca.Tripster.HotelDAL\\obj\\",
+      "outputPath": "C:\\Users\\vitripathi\\Desktop\\Hotelapi\\Tavisca.Tripster.HotelApi\\Tavisca.Tripster.HotelDAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
